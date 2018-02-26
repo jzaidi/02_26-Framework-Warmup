@@ -1,0 +1,10 @@
+
+Today's warmup is to create a webpage for your spirit animal.
+
+1. Create a local git repository.
+2. Using a CSS Framework of your choice, make a page with a picture of your spirit animal.
+3. Three columns using CSS grid.
+4. Add an image
+5. Add in brief information about your spirit animal.
+6. Add a touch of styling if you have remaining time.
+7. Push all changes to Github.
